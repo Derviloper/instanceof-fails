@@ -1,0 +1,15 @@
+// Vitest Snapshot v1
+
+exports[`HelloWorld.vue > should render with props 0 1`] = `
+"<div class=\\"greetings\\" data-v-469af010=\\"\\">
+  <h1 class=\\"green\\" data-v-469af010=\\"\\"></h1>
+  <h3 data-v-469af010=\\"\\"> You’ve successfully created a project with <a target=\\"_blank\\" href=\\"https://vitejs.dev/\\" data-v-469af010=\\"\\">Vite</a> + <a target=\\"_blank\\" href=\\"https://vuejs.org/\\" data-v-469af010=\\"\\">Vue 3</a>. What's next? </h3>
+</div>"
+`;
+
+exports[`HelloWorld.vue > should render with props 1 1`] = `
+"<div class=\\"greetings\\" data-v-469af010=\\"\\">
+  <h1 class=\\"green\\" data-v-469af010=\\"\\">Hello World</h1>
+  <h3 data-v-469af010=\\"\\"> You’ve successfully created a project with <a target=\\"_blank\\" href=\\"https://vitejs.dev/\\" data-v-469af010=\\"\\">Vite</a> + <a target=\\"_blank\\" href=\\"https://vuejs.org/\\" data-v-469af010=\\"\\">Vue 3</a>. What's next? </h3>
+</div>"
+`;

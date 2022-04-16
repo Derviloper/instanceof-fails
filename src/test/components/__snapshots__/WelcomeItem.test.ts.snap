@@ -1,0 +1,9 @@
+// Vitest Snapshot v1
+
+exports[`WelcomeItem.vue > should render 1`] = `
+"<div xmlns=\\"http://www.w3.org/1999/xhtml\\" class=\\"item\\" data-v-6f9f15d6=\\"\\"><i data-v-6f9f15d6=\\"\\">Icon slot</i>
+  <div class=\\"details\\" data-v-6f9f15d6=\\"\\">
+    <h3 data-v-6f9f15d6=\\"\\">Heading slot</h3>Default slot
+  </div>
+</div>"
+`;
